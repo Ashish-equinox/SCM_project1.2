@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int i=10;
+    int i=11;
     int &j=i; //j is ref var. of i
     cout<<i<<endl;
     i++;
